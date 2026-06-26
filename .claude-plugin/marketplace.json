@@ -1,0 +1,31 @@
+{
+  "name": "rpa-bugfix",
+  "owner": {
+    "name": "Pavel Zloi",
+    "email": "paul@drteam.rocks"
+  },
+  "plugins": [
+    {
+      "name": "rpa-bugfix",
+      "source": "./",
+      "description": "Fix a bug with a reproduction test first, then the fix, then the full test suite, then a short report. Requires a clear bug description (expected vs actual, how to reproduce).",
+      "version": "1.0.0",
+      "author": {
+        "name": "Pavel Zloi",
+        "email": "paul@drteam.rocks"
+      },
+      "homepage": "https://github.com/EvilFreelancer/rpa-bugfix",
+      "repository": "https://github.com/EvilFreelancer/rpa-bugfix",
+      "license": "MIT",
+      "keywords": [
+        "bugfix",
+        "tdd",
+        "regression",
+        "testing",
+        "workflow",
+        "rpa"
+      ],
+      "category": "workflow"
+    }
+  ]
+}

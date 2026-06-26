@@ -1,0 +1,29 @@
+{
+  "name": "rpa-bugfix",
+  "version": "1.0.0",
+  "description": "Fix a bug with a reproduction test first, then the fix, then the full test suite, then a short report. Requires a clear bug description (expected vs actual, how to reproduce).",
+  "author": {
+    "name": "Pavel Zloi",
+    "email": "paul@drteam.rocks",
+    "url": "https://t.me/evilfreelancer"
+  },
+  "homepage": "https://github.com/EvilFreelancer/rpa-bugfix",
+  "repository": "https://github.com/EvilFreelancer/rpa-bugfix",
+  "license": "MIT",
+  "keywords": [
+    "bugfix",
+    "tdd",
+    "regression",
+    "testing",
+    "workflow",
+    "rpa"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "rpa-bugfix",
+    "shortDescription": "Fix a bug with a reproduction test first, then the full suite, then a report.",
+    "developerName": "Pavel Zloi",
+    "category": "Developer Tools",
+    "websiteURL": "https://github.com/EvilFreelancer/rpa-bugfix"
+  }
+}
