@@ -18,7 +18,7 @@
     "workflow",
     "rpa"
   ],
-  "skills": "./skills/",
+  "skills": "./",
   "interface": {
     "displayName": "rpa-bugfix",
     "shortDescription": "Fix a bug with a reproduction test first, then the full suite, then a report.",
