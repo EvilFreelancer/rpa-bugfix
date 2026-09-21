@@ -1,7 +1,7 @@
 {
   "name": "rpa-bugfix",
   "displayName": "rpa-bugfix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fix a bug with a reproduction test first, then the fix, then the full test suite, then a short report. Requires a clear bug description (expected vs actual, how to reproduce).",
   "author": {
     "name": "Pavel Rykov",

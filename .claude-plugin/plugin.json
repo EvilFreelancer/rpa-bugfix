@@ -1,7 +1,7 @@
 {
   "name": "rpa-bugfix",
   "description": "Fix a bug with a reproduction test first, then the fix, then the full test suite, then a short report. Requires a clear bug description (expected vs actual, how to reproduce).",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Pavel Rykov",
     "email": "paul@drteam.rocks"
@@ -16,6 +16,5 @@
     "testing",
     "workflow",
     "rpa"
-  ],
-  "category": "workflow"
+  ]
 }
