@@ -42,11 +42,11 @@ brings a newer version of the skill with each release.
 
 | Tool          | Path                          |
 |---------------|-------------------------------|
+| Coddy         | `~/.coddy/skills/rpa-bugfix/`       |
 | Claude Code   | `~/.claude/skills/rpa-bugfix/`      |
 | Cursor        | `~/.cursor/skills/rpa-bugfix/`      |
 | OpenAI Codex  | `~/.codex/skills/rpa-bugfix/`       |
 | Kimi Code CLI | `~/.kimi/skills/rpa-bugfix/`        |
-| Coddy         | `~/.coddy/skills/rpa-bugfix/`       |
 
 The directory name must match the `name` field in `SKILL.md`.
 
